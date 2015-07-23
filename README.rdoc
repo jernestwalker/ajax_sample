@@ -1,3 +1,5 @@
+Day 19 of TTS Boot Camp. Intro excersise to Asynchronous JavaScript and XML (AJAX)
+
 == README
 
 This README would normally document whatever steps are necessary to get the
